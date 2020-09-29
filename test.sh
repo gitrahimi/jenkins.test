@@ -1,6 +1,6 @@
 #!/bin/bash
 
-yum install httpd -y
+sudo yum install git -y
 
 ls
 cat /var/lib/jenkins
