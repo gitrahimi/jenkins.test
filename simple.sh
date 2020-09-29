@@ -1,4 +1,4 @@
 #!/bin/bash
-yum install git -y
-yum install wget -y
-yum update -y
+sudo yum install git -y
+sudo yum install wget -y
+sudo yum update -y
